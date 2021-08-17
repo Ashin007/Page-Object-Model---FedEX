@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-17T20:39:24 IST" name="Assignment Test Suite" finished-at="2021-08-17T20:39:33 IST" duration-ms="8538">
+  <suite started-at="2021-08-18T00:09:37 IST" name="Assignment Test Suite" finished-at="2021-08-18T00:10:00 IST" duration-ms="22977">
     <groups>
     </groups>
-    <test started-at="2021-08-17T20:39:24 IST" name="C:\Users\ashin\Documents\Software Testing\PageObjectModel-FedEx" finished-at="2021-08-17T20:39:33 IST" duration-ms="8538">
+    <test started-at="2021-08-18T00:09:37 IST" name="C:\Users\ashin\Documents\Software Testing\PageObjectModel-FedEx" finished-at="2021-08-18T00:10:00 IST" duration-ms="22977">
       <class name="com.fedex.testcases.TC_001">
-        <test-method signature="cheeral_to_arizona()[pri:0, instance:com.fedex.testcases.TC_001@4d5b6aac]" started-at="2021-08-17T20:39:24 IST" name="cheeral_to_arizona" finished-at="2021-08-17T20:39:33 IST" duration-ms="8506" status="PASS">
+        <test-method signature="cheeral_to_arizona()[pri:0, instance:com.fedex.testcases.TC_001@4d5b6aac]" started-at="2021-08-18T00:09:37 IST" name="cheeral_to_arizona" finished-at="2021-08-18T00:10:00 IST" duration-ms="22938" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cheeral_to_arizona -->

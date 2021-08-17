@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -27,6 +28,10 @@ public class Base {
                 options.addArguments("--disable-notifications");
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver(options);
+            }
+            else if(properties.getProperty("browser").equals("firefox")){
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
             }
         } catch (IOException e) {
             e.printStackTrace();
