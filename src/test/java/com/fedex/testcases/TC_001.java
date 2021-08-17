@@ -26,5 +26,6 @@ public class TC_001 extends Base {
         homePage.clickOnIndia();
         homePage.clickOnCovidCloseNotification();
         homePage.clickOnRate();
+        driver.quit();
     }
 }
