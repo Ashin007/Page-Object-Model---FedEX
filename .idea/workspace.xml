@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ea64672-7f3c-4c27-81f8-4e123b5df266" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fedex/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fedex/base/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fedex/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fedex/config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fedex/base/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fedex/base/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fedex/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fedex/base/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fedex/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fedex/config/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Assignment Test Suite/C__Users_ashin_Documents_Software Testing_PageObjectModel-FedEx.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Assignment Test Suite/C__Users_ashin_Documents_Software Testing_PageObjectModel-FedEx.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Assignment Test Suite/C__Users_ashin_Documents_Software Testing_PageObjectModel-FedEx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Assignment Test Suite/C__Users_ashin_Documents_Software Testing_PageObjectModel-FedEx.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
@@ -17,6 +12,8 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fedex.testcases.TC_001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fedex.testcases.TC_001.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Assignment Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/fedex/testcases/TC_001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fedex/testcases/TC_001.class" afterDir="false" />
     </list>
@@ -117,21 +114,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1629126522176" />
-    <state width="1493" height="270" key="GridCell.Tab.0.bottom" timestamp="1629225566899">
+    <state width="1493" height="270" key="GridCell.Tab.0.bottom" timestamp="1629226266677">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="270" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1629225566899" />
-    <state width="1493" height="270" key="GridCell.Tab.0.center" timestamp="1629225566899">
+    <state width="1493" height="270" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1629226266677" />
+    <state width="1493" height="270" key="GridCell.Tab.0.center" timestamp="1629226266677">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="270" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1629225566899" />
-    <state width="1493" height="270" key="GridCell.Tab.0.left" timestamp="1629225566899">
+    <state width="1493" height="270" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1629226266677" />
+    <state width="1493" height="270" key="GridCell.Tab.0.left" timestamp="1629226266677">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="270" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1629225566899" />
-    <state width="1493" height="270" key="GridCell.Tab.0.right" timestamp="1629225566899">
+    <state width="1493" height="270" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1629226266677" />
+    <state width="1493" height="270" key="GridCell.Tab.0.right" timestamp="1629226266677">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="270" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1629225566899" />
+    <state width="1493" height="270" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1629226266677" />
   </component>
 </project>

@@ -26,6 +26,9 @@ public class Base {
             if(properties.getProperty("browser").equals("chrome")){
                 ChromeOptions options = new ChromeOptions();
                 options.addArguments("--disable-notifications");
+                options.addArguments("headless" +
+                        "" +
+                        "");
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver(options);
             }
